@@ -118,6 +118,13 @@
       },
       {
         "type": "link",
+        "addDate": 1721650527579,
+        "title": "Gitee",
+        "icon": "https://logo.clearbit.com/gitee.com",
+        "url": "https://gitee.com/"
+      },
+      {
+        "type": "link",
         "addDate": 1678335658151,
         "title": "下次一定",
         "icon": "https://logo.clearbit.com/www.iiice.cn",
@@ -407,6 +414,13 @@
             "title": "主页 | 资源收藏夹",
             "icon": "https://logo.clearbit.com/zyscj.com",
             "url": "https://zyscj.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724209966297,
+            "title": "资源分享+交流群 - 飞书云文档",
+            "icon": "https://logo.clearbit.com/sohkzgzuh3.feishu.cn",
+            "url": "https://sohkzgzuh3.feishu.cn/docx/JIbQdf1Zfow6hJxyEetcsMtXnjd"
           }
         ]
       },
@@ -547,6 +561,41 @@
             "title": "樱花动漫 - 专注二次元ACG动漫BT迅雷下载",
             "icon": "https://logo.clearbit.com/yinghuadongman.me",
             "url": "https://yinghuadongman.me/"
+          },
+          {
+            "type": "link",
+            "addDate": 1725086150448,
+            "title": "樱之空动漫",
+            "icon": "https://logo.clearbit.com/www.skr3.cc",
+            "url": "https://www.skr3.cc/"
+          },
+          {
+            "type": "link",
+            "addDate": 1725086236767,
+            "title": "菜狗影视",
+            "icon": "https://logo.clearbit.com/www.dddog.cn",
+            "url": "https://www.dddog.cn/movie/"
+          },
+          {
+            "type": "link",
+            "addDate": 1726034330129,
+            "title": "最新电影高清迅雷下载_720P_1080P - 迅雷电影天堂",
+            "icon": "https://logo.clearbit.com/xunlei8.top",
+            "url": "https://xunlei8.top/"
+          },
+          {
+            "type": "link",
+            "addDate": 1726034340595,
+            "title": "迅雷电影下载-1080p|RMVB|MP4高清电影下载-好恐怖",
+            "icon": "https://logo.clearbit.com/www.haokongbu123.com",
+            "url": "https://www.haokongbu123.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1728738724000,
+            "title": "动漫共和国动漫",
+            "icon": "https://logo.clearbit.com/animerep.com",
+            "url": "http://animerep.com/"
           }
         ]
       },
@@ -645,6 +694,20 @@
             "title": "jsDelivr - CDN托管",
             "icon": "https://logo.clearbit.com/www.jsdelivr.com",
             "url": "https://www.jsdelivr.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1721468559567,
+            "title": "OpenWrt旁路由进阶篇SmartDNS+AdGuardHome设置DNS分流、秒开网页、去广告_路由器_什么值得买",
+            "icon": "https://logo.clearbit.com/post.smzdm.com",
+            "url": "https://post.smzdm.com/p/axz6z7w9/"
+          },
+          {
+            "type": "link",
+            "addDate": 1728215885425,
+            "title": "LeetBook - 力扣（LeetCode）全球极客挚爱的技术成长平台",
+            "icon": "https://logo.clearbit.com/leetcode.cn",
+            "url": "https://leetcode.cn/leetbook/"
           }
         ]
       },
@@ -771,6 +834,20 @@
             "title": "Kimi.ai - 帮你看更大的世界",
             "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
             "url": "https://kimi.moonshot.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723601854650,
+            "title": "Ai导航 | 最新最前沿的ai产品",
+            "icon": "https://logo.clearbit.com/www.ainavpro.com",
+            "url": "https://www.ainavpro.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1725763438186,
+            "title": "AI工具集官网 | 1000+ AI工具集合，国内外AI工具集导航大全",
+            "icon": "https://logo.clearbit.com/ai-bot.cn",
+            "url": "https://ai-bot.cn/"
           }
         ]
       },
@@ -1828,6 +1905,48 @@
             "title": "果核音乐",
             "icon": "https://logo.clearbit.com/ghyinyue.com",
             "url": "https://ghyinyue.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1721478556292,
+            "title": "Markdown 在线编辑器· 开发者工具箱",
+            "icon": "https://logo.clearbit.com/markdown.devtool.tech",
+            "url": "https://markdown.devtool.tech/app"
+          },
+          {
+            "type": "link",
+            "addDate": 1721698195219,
+            "title": "太极创客",
+            "icon": "https://logo.clearbit.com/www.taichi-maker.com",
+            "url": "http://www.taichi-maker.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723770080578,
+            "title": "SMS-Activate是在线接受短信的虚拟号码服务",
+            "icon": "https://logo.clearbit.com/sms-activate.io",
+            "url": "https://sms-activate.io/cn"
+          },
+          {
+            "type": "link",
+            "addDate": 1725006283691,
+            "title": "Go柄网-专业的手柄测评-手柄测试-手柄对比-手柄拆解",
+            "icon": "https://logo.clearbit.com/www.gobing.cn",
+            "url": "https://www.gobing.cn/index"
+          },
+          {
+            "type": "link",
+            "addDate": 1727936529232,
+            "title": "student.helioviewer.org太阳和日光层图像可视化工具 --- student.helioviewer.org - Solar and heliospheric image visualization tool",
+            "icon": "https://logo.clearbit.com/student.helioviewer.org",
+            "url": "https://student.helioviewer.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1728543028045,
+            "title": "比的原理",
+            "icon": "https://logo.clearbit.com/bideyuanli.com",
+            "url": "https://bideyuanli.com/pp"
           }
         ]
       },
